@@ -15,14 +15,13 @@ the uncertainty in input data.
 
    * - Module 
      - Version
-	 - Installation
+     - Installation
    * - swolfpy-inputdata 
      - 0.2.0
-	 - ``pip install swolfpy-inputdata==0.2.0``
-	 - ``pip install swolfpy-processmodels``
+     - ``pip install swolfpy-inputdata==0.2.0``
    * - swolfpy-processmodels
      - 0.1.5
-	 -``pip install swolfpy-processmodels==0.1.5``
+     -``pip install swolfpy-processmodels==0.1.5``
    * - swolfpy
      - 0.2.1
-	 - ``pip install swolfpy==0.2.1``
+     - ``pip install swolfpy==0.2.1``
