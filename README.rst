@@ -17,11 +17,14 @@ the uncertainty in input data.
      - Version
      - Installation
    * - swolfpy-inputdata
-     - `0.2.0 <https://pypi.org/project/swolfpy-inputdata/0.2.0/>`__
-     - ``pip install swolfpy-inputdata==0.2.0``
+     - .. image:: https://img.shields.io/pypi/v/swolfpy-inputdata/0.2.1
+               :target: https://pypi.python.org/pypi/swolfpy-inputdata/0.2.1
+     - ``pip install swolfpy-inputdata==0.2.1``
    * - swolfpy-processmodels
-     - `0.1.5 <https://pypi.org/project/swolfpy-processmodels/0.1.5/>`__
-     - ``pip install swolfpy-processmodels==0.1.5``
+     - .. image:: https://img.shields.io/pypi/v/swolfpy-processmodels/0.1.6
+               :target: https://pypi.python.org/pypi/swolfpy-processmodels/0.1.6
+     - ``pip install swolfpy-processmodels==0.1.6``
    * - swolfpy
-     - `0.2.1 <https://pypi.org/project/swolfpy/0.2.1/>`__
-     - ``pip install swolfpy==0.2.1``
+     - .. image:: https://img.shields.io/pypi/v/swolfpy/0.2.2
+               :target: https://pypi.python.org/pypi/swolfpy/0.2.2
+     - ``pip install swolfpy==0.2.2``
