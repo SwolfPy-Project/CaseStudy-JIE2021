@@ -1,6 +1,6 @@
 ,Emission,Compartment,Flow,Flow Unit,Contribution,Unit
-0,"Carbon dioxide, from soil or biomass stock","('air',)",-20024124.829581026,kilogram,-20024124.82958103,kg CO2-Eq
-1,"Methane, non-fossil","('air',)",630711.3493520716,kilogram,17975273.456534043,kg CO2-Eq
-2,"Carbon dioxide, fossil","('air', 'non-urban air or from high stacks')",-8882530.27585815,kilogram,-8882530.27585815,kg CO2-Eq
-3,"Carbon dioxide, fossil","('air',)",-5799500.543543004,kilogram,-5799500.543543002,kg CO2-Eq
-4,"Carbon dioxide, fossil","('air', 'urban air close to ground')",-4595978.536076351,kilogram,-4595978.536076352,kg CO2-Eq
+0,"Carbon dioxide, from soil or biomass stock","('air',)",-2.00E+07,kilogram,-2.00E+07,kg CO2-Eq
+1,"Methane, non-fossil","('air',)",6.31E+05,kilogram,1.80E+07,kg CO2-Eq
+2,"Carbon dioxide, fossil","('air', 'non-urban air or from high stacks')",-8.32E+06,kilogram,-8.32E+06,kg CO2-Eq
+3,"Carbon dioxide, fossil","('air',)",-5.20E+06,kilogram,-5.20E+06,kg CO2-Eq
+4,"Carbon dioxide, fossil","('air', 'urban air close to ground')",-4.56E+06,kilogram,-4.56E+06,kg CO2-Eq

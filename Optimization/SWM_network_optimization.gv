@@ -21,6 +21,7 @@ digraph SWM_network_optimization {
 	Collection -> WTE [label=MRDO color=black]
 	WTE -> LF [label=Bottom_Ash color=gray]
 	WTE -> LF [label=Fly_Ash color=gray]
+	WTE -> LF [label=Unreacted_Ash color=gray]
 	WTE -> Reprocessing [label=Al color=blue]
 	WTE -> Reprocessing [label=Fe color=blue]
 	SS_MRF -> Reprocessing [label=LDPE_Film color=blue]
