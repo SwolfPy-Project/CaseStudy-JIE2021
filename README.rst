@@ -1,3 +1,7 @@
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5546657.svg
+   :target: https://doi.org/10.5281/zenodo.5546657
+   :alt: DOI
+
 
 ========================
 Case Study with SwolfPy
