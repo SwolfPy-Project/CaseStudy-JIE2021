@@ -1,9 +1,9 @@
 ,Activity,Flow,Flow Unit,Contribution,Unit
-0,Electricity production,1.57E+07,kWh,-1.31E+07,kg CO2-Eq
-1,Equipment CNG,-1.34E+06,NA,-5.09E+06,kg CO2-Eq
-2,LF Textiles,4.78E+03,Mg/year,4.86E+06,kg CO2-Eq
-3,LF Wood,3.28E+03,Mg/year,-4.75E+06,kg CO2-Eq
-4,Equipment Diesel,1.05E+06,L,3.75E+06,kg CO2-Eq
-5,LF Food Waste Vegetable,8.81E+03,Mg/year,3.23E+06,kg CO2-Eq
-6,LF Wood Other,1.94E+03,Mg/year,-2.63E+06,kg CO2-Eq
+0,Electricity production,1.66E+07,kWh,-1.38E+07,kg CO2-Eq
+1,Equipment CNG,-1.34E+06,m3,-5.09E+06,kg CO2-Eq
+2,LF Wood,3.28E+03,Mg/year,-4.79E+06,kg CO2-Eq
+3,LF Textiles,4.78E+03,Mg/year,4.35E+06,kg CO2-Eq
+4,Equipment Diesel,1.01E+06,L,3.63E+06,kg CO2-Eq
+5,LF Food Waste Vegetable,8.81E+03,Mg/year,3.50E+06,kg CO2-Eq
+6,LF Wood Other,1.94E+03,Mg/year,-2.65E+06,kg CO2-Eq
 7,Reprocessing Fe,2.31E+03,Mg/year,-2.56E+06,kg CO2-Eq

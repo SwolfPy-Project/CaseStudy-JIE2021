@@ -1,9 +1,9 @@
 ,"('IPCC 2013', 'climate change', 'GWP 100a')"
-"('WTE', 'Elec_Prod_Eff', 'Gross_Efficiency')",-0.967
-"('Collection', 'SF_Collection', 'res_gen')",-0.203
-"('WTE', 'Metals_Recovery', 'Al_Rec_Rate')",-0.124
-"('Reproc', 'Fe', ('Technosphere', 'Electricity_production'))",-0.069
-"('Reproc', 'Al', ('Technosphere', 'Electricity_production'))",-0.047
-"('LF', 'Landfill Gas Parameters', 'finColEff')",-0.020
-"('LF', 'Landfill Gas Parameters', 'intColEff')",-0.017
-"('LF', 'Landfill Gas Parameters', 'actk')",0.013
+"('WTE', 'Elec_Prod_Eff', 'Gross_Efficiency')",-0.9675178348994568
+"('Collection', 'SF_Collection', 'res_gen')",-0.20323546383270405
+"('WTE', 'Metals_Recovery', 'Al_Rec_Rate')",-0.12398610110238792
+"('Reproc', 'Fe', ('Technosphere', 'Electricity_production'))",-0.06923026889939303
+"('Reproc', 'Al', ('Technosphere', 'Electricity_production'))",-0.04691068273482933
+"('LF', 'Landfill Gas Parameters', 'incColEff')",-0.019812166754137685
+"('LF', 'Landfill Gas Parameters', 'initColEff')",-0.017209284154434217
+"('LF', 'Landfill Gas Parameters', 'actk')",0.012849582074535829
