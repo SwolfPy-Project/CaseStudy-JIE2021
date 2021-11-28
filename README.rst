@@ -1,5 +1,5 @@
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5546657.svg
-   :target: https://doi.org/10.5281/zenodo.5546657
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5732555.svg
+   :target: https://doi.org/10.5281/zenodo.5732555
    :alt: DOI
 
 
