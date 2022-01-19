@@ -1,6 +1,11 @@
+.. image:: https://img.shields.io/badge/JIE%20DOI-10.1111%2Fjiec.13236-blue
+   :target: https://doi.org/10.1111/jiec.13236
+   :alt: JIE DOI
+  
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5732555.svg
    :target: https://doi.org/10.5281/zenodo.5732555
    :alt: DOI
+
 
 
 ========================
@@ -32,3 +37,8 @@ the uncertainty in input data.
      - .. image:: https://img.shields.io/pypi/v/swolfpy/0.2.4
                :target: https://pypi.python.org/pypi/swolfpy/0.2.4
      - ``pip install swolfpy==0.2.4``
+
+
+
+
+**How to cite this article**: Sardarmehni M, Anchieta PHC, Levis JW. Solid waste optimization life-cycle framework in Python (SwolfPy). JInd Ecol. 2022;1–15. https://doi.org/10.1111/jiec.13236
